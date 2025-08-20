@@ -1,14 +1,10 @@
 # System-Design
-System Design is the process of planning and defining the architecture of a software system. It focuses on how different components like databases, APIs, caching, load balancers, and microservices interact to build a scalable, reliable, and maintainable system.
-
-* Prepare **point-wise notes** on **System Design basics + Top Interview Questions** (like the 30 I listed).
-* Keep the language **simple and clear**.
-* Add **examples wherever useful**.
-* Provide the document in **Word (.docx)** or **PDF** so we can keep it as our interview prep guide.
+* System Design is the process of planning and defining the architecture of a software system.  
+* It focuses on how different components like **databases, APIs, caching, load balancers, and microservices interact to build a scalable, reliable, and maintainable system.**
 
 ---
 
-# 📘 System Design – Quick Notes
+# System Design
 
 ## 1. What is System Design?
 
